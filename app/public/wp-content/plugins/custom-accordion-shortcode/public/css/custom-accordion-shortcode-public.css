@@ -1,0 +1,41 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.accordion-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.418);
+}
+
+.accordion-title {
+  color: grey;
+  font-size: 1.2rem;
+}
+
+ion-icon {
+  font-size: 1.6rem;
+  color: grey;
+}
+
+.accordion-content {
+  padding: 1.5rem 0;
+  line-height: 1.7rem;
+  font-size: 0.95rem;
+  text-align: justify;
+  color: grey;
+}
+
+.active {
+  color: cyan;
+}
+
+.active-header {
+  border-bottom: 2px solid cyan;
+}
+
+.active-content {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.418);
+}

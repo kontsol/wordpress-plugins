@@ -1,0 +1,70 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.custom-search h1 {
+  margin-bottom: 0.3rem;
+  font-size: 1.2rem;
+}
+
+.custom-search-form {
+}
+
+.custom-search-form:focus {
+}
+
+#custom-search-input {
+  width: 60%;
+  flex-grow: 2;
+  border: none;
+  outline: none;
+}
+
+.search-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid grey;
+  padding: 5px 10px !important;
+}
+
+.focused {
+  border-radius: 4px;
+  box-shadow: 0 0 5px rgb(0, 132, 255);
+}
+
+#close-btn {
+}
+
+.custom-search-results {
+  margin: 0;
+  padding: 1rem;
+}
+
+.search-result {
+  border: 1px solid rgba(128, 128, 128, 0.267);
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.search-result:hover > * {
+  color: rgb(0, 132, 255);
+}
+
+.search-result a {
+  color: black;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+.search-result a:hover {
+  color: rgb(0, 132, 255);
+}
+
+#forward-button {
+  font-size: 1rem;
+}

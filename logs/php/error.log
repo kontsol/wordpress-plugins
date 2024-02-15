@@ -1,0 +1,224 @@
+[12-Feb-2024 15:05:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Custom_Accordion_Shortcode::run() in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\custom-accordion-shortcode.php:79
+Stack trace:
+#0 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\custom-accordion-shortcode.php(82): run_custom_accordion_shortcode()
+#1 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-admin\includes\plugin.php(2318): include_once('C:\\Users\\Alkivi...')
+#2 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-admin\includes\plugin.php(663): plugin_sandbox_scrape('custom-accordio...')
+#3 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-admin\plugins.php(58): activate_plugin('custom-accordio...', 'http://project-...', false)
+#4 {main}
+  thrown in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\custom-accordion-shortcode.php on line 79
+[12-Feb-2024 16:10:53 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:10:53 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:10:53 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:11:03 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:11:03 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:11:03 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:12:26 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:12:26 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:12:26 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:13:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:13:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:13:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:13:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:13:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:13:52 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:15:06 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:15:06 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:15:06 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:15:06 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:15:06 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:15:06 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:15:18 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:15:18 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:15:18 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:15:18 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:15:18 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:15:18 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:15:18 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:15:18 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:15:18 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:15:18 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:15:18 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:15:18 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:24:41 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:24:41 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:24:41 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:24:41 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:24:41 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:24:41 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:25:01 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:25:01 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:25:01 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:25:01 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:25:01 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:25:01 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:25:41 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:25:41 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:25:41 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:25:41 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:25:41 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:25:41 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:25:41 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:25:41 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:25:41 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:25:41 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:26:04 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:26:04 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:26:04 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:26:04 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:26:04 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:26:04 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:26:04 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:26:04 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:26:04 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:26:04 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:26:09 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:26:09 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:26:09 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:26:09 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:26:09 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:26:09 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:26:09 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:26:09 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:26:09 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:26:09 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:26:21 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:26:21 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:26:21 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:26:21 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:26:21 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:26:21 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:26:21 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:26:21 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:26:21 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:26:21 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:27:42 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:27:42 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:27:42 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:27:42 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:27:42 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:27:42 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:27:42 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:27:42 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:27:42 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:27:42 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:27:46 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:27:46 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:27:46 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:27:46 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:27:46 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:27:46 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:27:46 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:27:46 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:27:46 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:27:46 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:27:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:27:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:27:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:27:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:27:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:27:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:27:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:27:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:27:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 303
+[12-Feb-2024 16:27:49 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:30:54 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 309
+[12-Feb-2024 16:30:54 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 311
+[12-Feb-2024 16:30:54 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 309
+[12-Feb-2024 16:30:54 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 311
+[12-Feb-2024 16:30:54 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 309
+[12-Feb-2024 16:30:54 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 311
+[12-Feb-2024 16:30:54 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 309
+[12-Feb-2024 16:30:54 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 311
+[12-Feb-2024 16:30:54 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 309
+[12-Feb-2024 16:30:54 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 311
+[12-Feb-2024 16:31:13 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:31:13 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 307
+[12-Feb-2024 16:31:13 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:31:13 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 307
+[12-Feb-2024 16:31:13 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:31:13 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 307
+[12-Feb-2024 16:31:13 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:31:13 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 307
+[12-Feb-2024 16:31:13 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:31:13 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 307
+[12-Feb-2024 16:31:20 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:31:20 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 307
+[12-Feb-2024 16:31:20 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:31:20 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 307
+[12-Feb-2024 16:31:20 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:31:20 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 307
+[12-Feb-2024 16:31:20 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:31:20 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 307
+[12-Feb-2024 16:31:20 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 305
+[12-Feb-2024 16:31:20 UTC] PHP Warning:  Undefined array key "id" in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-accordion-shortcode\includes\class-custom-accordion-shortcode.php on line 307
+[12-Feb-2024 18:42:14 UTC] PHP Warning:  require(C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin/class-custom-search-plugin.php): Failed to open stream: No such file or directory in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php on line 64
+[12-Feb-2024 18:42:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin/class-custom-search-plugin.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php:64
+Stack trace:
+#0 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-admin\includes\plugin.php(2318): include_once()
+#1 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-admin\includes\plugin.php(663): plugin_sandbox_scrape('custom-search-p...')
+#2 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-admin\plugins.php(58): activate_plugin('custom-search-p...', 'http://project-...', false)
+#3 {main}
+  thrown in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php on line 64
+[12-Feb-2024 18:42:33 UTC] PHP Warning:  require(C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin/class-custom-search-plugin.php): Failed to open stream: No such file or directory in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php on line 64
+[12-Feb-2024 18:42:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin/class-custom-search-plugin.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php:64
+Stack trace:
+#0 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-admin\includes\plugin.php(2318): include_once()
+#1 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-admin\includes\plugin.php(663): plugin_sandbox_scrape('custom-search-p...')
+#2 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-admin\plugins.php(58): activate_plugin('custom-search-p...', 'http://project-...', false)
+#3 {main}
+  thrown in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php on line 64
+[12-Feb-2024 19:28:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Custom_Search_Plugin::run() in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php:79
+Stack trace:
+#0 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php(82): run_custom_search_plugin()
+#1 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-settings.php(473): include_once('C:\\Users\\Alkivi...')
+#2 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-config.php(103): require_once('C:\\Users\\Alkivi...')
+#3 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-load.php(50): require_once('C:\\Users\\Alkivi...')
+#4 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Alkivi...')
+#5 {main}
+  thrown in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php on line 79
+[12-Feb-2024 19:29:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Custom_Search_Plugin::run() in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php:79
+Stack trace:
+#0 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php(82): run_custom_search_plugin()
+#1 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-settings.php(473): include_once('C:\\Users\\Alkivi...')
+#2 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-config.php(103): require_once('C:\\Users\\Alkivi...')
+#3 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-load.php(50): require_once('C:\\Users\\Alkivi...')
+#4 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Alkivi...')
+#5 {main}
+  thrown in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php on line 79
+[12-Feb-2024 19:29:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Custom_Search_Plugin::run() in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php:79
+Stack trace:
+#0 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php(82): run_custom_search_plugin()
+#1 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-settings.php(473): include_once('C:\\Users\\Alkivi...')
+#2 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-config.php(103): require_once('C:\\Users\\Alkivi...')
+#3 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-load.php(50): require_once('C:\\Users\\Alkivi...')
+#4 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Alkivi...')
+#5 {main}
+  thrown in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php on line 79
+[12-Feb-2024 19:30:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Custom_Search_Plugin::run() in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php:79
+Stack trace:
+#0 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php(82): run_custom_search_plugin()
+#1 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-settings.php(473): include_once('C:\\Users\\Alkivi...')
+#2 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-config.php(103): require_once('C:\\Users\\Alkivi...')
+#3 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-load.php(50): require_once('C:\\Users\\Alkivi...')
+#4 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Alkivi...')
+#5 {main}
+  thrown in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php on line 79
+[12-Feb-2024 19:31:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Custom_Search_Plugin::run() in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php:79
+Stack trace:
+#0 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php(82): run_custom_search_plugin()
+#1 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-settings.php(473): include_once('C:\\Users\\Alkivi...')
+#2 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-config.php(103): require_once('C:\\Users\\Alkivi...')
+#3 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-load.php(50): require_once('C:\\Users\\Alkivi...')
+#4 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Alkivi...')
+#5 {main}
+  thrown in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php on line 79
+[12-Feb-2024 19:31:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Custom_Search_Plugin::run() in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php:79
+Stack trace:
+#0 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php(82): run_custom_search_plugin()
+#1 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-settings.php(473): include_once('C:\\Users\\Alkivi...')
+#2 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-config.php(103): require_once('C:\\Users\\Alkivi...')
+#3 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-load.php(50): require_once('C:\\Users\\Alkivi...')
+#4 C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Alkivi...')
+#5 {main}
+  thrown in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-search-plugin\custom-search-plugin.php on line 79
+[14-Feb-2024 09:18:02 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 132120592 bytes) in C:\Users\Alkiviadis\Local Sites\project-briefing\app\public\wp-content\plugins\custom-ajax-search\includes\class-custom-ajax-search.php on line 95
